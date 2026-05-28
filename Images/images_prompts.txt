@@ -38,3 +38,10 @@ Social Media prompt no.3:
 
 Follow-up prompt:
 "Can you move the flames to above the text instead of the on the face"
+
+
+Social Media prompt no.4:
+"A high-tech neon-lit kiosk in a mall atrium with white balconies. A participant plays the 'Street Hoops' digital game on a large screen showing a high score. Modern urban vibe with high-contrast lighting. Text overlay: 'BEAT THE HIGH SCORE. WIN VENDOR PRIZES AT THE AI GAME LAB.' 1:1 aspect ratio"
+
+Follow-up prompt:
+"More details on the game itself, it's a game that involves players to physical touch the screen trying to aim to score, match that description of game playing."
