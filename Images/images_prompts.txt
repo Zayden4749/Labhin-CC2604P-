@@ -12,3 +12,9 @@ Banner prompt no.1:
 Follow-up prompt:
 "can you change the angle to be less broad like that I can see the games more clearly."
 
+
+Banner prompt no.2:
+"A dramatic low-angle shot of a basketball player dunking on a concrete court within the mall. Large text overlay: '3x3 TOURNAMENT – SHOW YOUR GRIT. SAT-SUN AT THE ATRIUM. BE THERE!' Sharp focus on the ball and the 'Keep Burning' logo."
+
+Follow-up prompt:
+"Can you put the logo above the text instead of the person"
