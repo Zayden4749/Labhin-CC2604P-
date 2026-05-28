@@ -166,3 +166,66 @@ Featuring aggressive, fast-flow rap verses and a powerful, chant-heavy anthemic 
 ---
 
 This description is ready to use for Suno, Spotify, DistroKid, Beatport, or social media. Let me know if you want a shorter version (for Instagram/TikTok) or a more formal one (for label submissions)."
+
+
+
+
+Audio track no.2 (Event theme song)
+-----------------------------------------
+(Same NotebookLM chat as planning_prompts.txt)
+
+Prompt:
+"Based on the brief, generate an audio prompt for an upbeat Hip-Hop/Boom-Bap instrumental track (>2 mins) that matches the energy of the 'Urban Pulse: The Street Athletics Festival' event."
+
+Result:
+"To match the "Urban Pulse: The Street Athletics Festival" concept and fulfill the project requirements for the "Keep Burning" theme, here is a detailed prompt you can use with free generative AI music tools (such as Suno, Udio, or Loudly).
+While the original brief requested two audio tracks, your "Additional Notes" specify that only one audio track is now required for this project
+. This track must be at least 2 minutes long and match the vibe of your event
+.
+Audio Generation Prompt
+"Create a high-energy, upbeat Hip-Hop Boom-Bap instrumental track for a street athletics festival. The music should have a gritty, raw urban feel with heavy drum breaks, a driving rhythmic funky bassline, and occasional vinyl crackle. Incorporate subtle street elements like the sound of a basketball bouncing or a distant whistle to enhance the atmosphere. Tempo: 95 BPM. Mood: Motivating, rhythmic, and powerful. The track must be at least 2 minutes and 30 seconds long with a clear intro and a consistent head-nodding beat suitable for 3x3 basketball highlights and parkour action."
+How this meets your project criteria:
+Duration: The prompt specifically asks for a length exceeding the 2-minute requirement
+.
+Theme Consistency: It incorporates elements of the "Urban Pulse" concept, specifically targeting the street athletics and basketball vibe.
+Documentation Ready: You can use this prompt and the resulting audio for your Stage 1 presentation slides, where you must list the tools used, the prompt, and the parameters
+.
+Would you like to move on to generating the 3-minute opening speech script for the CEO or the prompts for the 10 images?"
+
+
+Prompt (ChatGPT - Song Writing):
+"Create a high-energy, upbeat Hip-Hop Boom-Bap instrumental track for a street athletics festival. The music should have a gritty, raw urban feel with heavy drum breaks, a driving rhythmic funky bassline, and occasional vinyl crackle. Incorporate subtle street elements like the sound of a basketball bouncing or a distant whistle to enhance the atmosphere. Tempo: 95 BPM. Mood: Motivating, rhythmic, and powerful. The track must be at least 2 minutes and 30 seconds long with a clear intro and a consistent head-nodding beat suitable for 3x3 basketball highlights and parkour action."
+
+Result:
+"Use this refined production prompt for an AI music generator or composer:
+
+---
+
+**Title:** Street Heat — Boom-Bap Sports Festival Instrumental
+
+**Prompt:**
+
+Create a high-energy Hip-Hop Boom-Bap instrumental designed for a street athletics festival featuring 3x3 basketball, parkour, and urban sports culture.
+
+Style should blend classic gritty Boom-Bap with modern sports-hype energy. Use hard-hitting dusty drum breaks, punchy snares, deep kicks, chopped funk-inspired samples, and a driving rhythmic bassline that keeps the momentum constant. The groove must feel raw, urban, authentic, and intensely head-nodding.
+
+Include subtle environmental street textures throughout the track, such as:
+
+* Basketball bouncing on concrete
+* Distant referee whistle
+* Crowd murmurs and urban ambience
+* Vinyl crackle and tape saturation
+* Occasional sneaker squeaks or chain-link fence impacts
+
+Tempo: **95 BPM**
+
+Mood:
+
+* Motivating
+* Competitive
+* Powerful
+* Rhythmic
+* Street-oriented
+* Energetic without becoming chaotic
+
+Structure:
