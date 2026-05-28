@@ -229,3 +229,130 @@ Mood:
 * Energetic without becoming chaotic
 
 Structure:
+
+* Length: **Minimum 2 minutes 30 seconds**
+* Clear intro with atmospheric build-up
+* Main beat drop within first 15–20 seconds
+* Consistent groove suitable for sports highlight reels
+* Dynamic transitions every 16–32 bars to maintain excitement
+* Short breakdown section before final climax
+* Strong outro that feels cinematic and impactful
+
+Production Characteristics:
+
+* Heavy drum presence with crisp snare transients
+* Funky bassline carrying the rhythm forward
+* Layered percussion for movement and athletic intensity
+* Wide stereo ambience while keeping drums centered and punchy
+* Slightly gritty analog texture with vinyl warmth
+* Avoid overly melodic or emotional sections; rhythm and groove should dominate
+
+Reference Vibe:
+Think underground NYC streetball mixtapes mixed with modern action sports cinematics and raw urban festival energy.
+
+Primary Use Case:
+
+* 3x3 basketball highlight montages
+* Parkour action edits
+* Street athletics event trailers
+* Sports festival background music
+* Urban promotional videos
+
+Output Requirements:
+
+* Instrumental only
+* No vocals
+* No trap hi-hat spam
+* Maintain Boom-Bap identity throughout
+* Professional mix with strong low-end and impactful drums
+
+---
+"
+
+Prompt (ChatGPT):
+"With the basis covered, start creating the song lyrics that I can put into suno AI. Also, generate me a style prompt for suno."
+
+Result:
+"High-energy Hip-Hop Boom-Bap instrumental with aggressive old-school drum breaks, punchy snares, deep kicks, funky rhythmic bassline, vinyl crackle, and raw urban street atmosphere. 95 BPM. Motivational and gritty sports-festival vibe inspired by street basketball, parkour, and underground NYC mixtapes. Include subtle basketball bounce sounds, distant whistles, crowd ambience, sneaker squeaks, and analog tape texture. Consistent head-nodding groove with cinematic transitions, hard-hitting percussion, and powerful low-end. No trap hi-hat spam. Professional mix, energetic and rhythmic, suitable for 3x3 basketball highlights and action sports montages.
+
+[Intro]
+Yeah
+Concrete heartbeat
+City lights, no sleep
+Hands up
+Run it
+
+[Verse 1]
+Feet hit the pavement, sparks in the night
+Whole squad locked in, vision airtight
+Fast break movement, chase that flame
+Every scar on the body got a story and a name
+
+Crowd too loud, hear the bassline crack
+Backboard thunder when the whole team attack
+Heartbeat sync with the kick and snare
+Pressure make diamonds, we was built right here
+
+Push through limits, never slow down
+Kings of the blacktop, own this town
+Parkour leap from the rail to the wall
+One shot, one chance, now watch us ball
+
+[Pre-Chorus]
+Rise up
+Everybody move when the drums hit hard
+Rise up
+Every single step leave a permanent mark
+
+[Chorus]
+We keep burning
+Hands high, now the whole place turning
+No fear when the lights start swerving
+Whole city alive cause the fire still working
+
+We keep burning
+From the court to the roof we learning
+Stand tall while the world keep turning
+Never back down, no the fire still burning
+
+[Verse 2]
+Sweat on the floor, hear the crowd erupt
+Pure adrenaline when the sound turn up
+No chains on the mind, no brakes on the pace
+Everybody locked in on the thrill of the chase
+
+Concrete jungle with a champion pulse
+Every move calculated, never random results
+Boom-bap echo through the underground train
+Every beat hit hard like the start of the game
+
+Fast feet glide when the spotlight flash
+Dust in the air from the wheels and dash
+Victory close, can feel that heat
+Whole block bounce when the bassline speak
+
+[Bridge]
+Whistle blow
+Time freeze
+Then explode
+
+Hands rise
+Eyes locked
+Take control
+
+[Chorus]
+We keep burning
+Hands high, now the whole place turning
+No fear when the lights start swerving
+Whole city alive cause the fire still working
+
+We keep burning
+From the court to the roof we learning
+Stand tall while the world keep turning
+Never back down, no the fire still burning
+
+[Outro]
+Concrete heartbeat
+Still running
+Still rising
+Still burning"
