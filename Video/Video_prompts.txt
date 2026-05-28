@@ -1,1 +1,20 @@
+(All generated content is by grok)
+
+Video Clip no.1 (0-10s) prompt:
+"Create a 10-second high-energy cinematic video clip. Duration: 10 seconds. The camera is a wide-angle drone-style shot descending into a multi-level mall atrium with white balconies and a glass skylight. Large 'Keep Burning' flame banners hang from the ceiling. Bold yellow text overlay appears: 'URBAN PULSE: THE STREET ATHLETICS FESTIVAL.' High-contrast lighting, 16:9 aspect ratio."
+
+Video clip no.2 (10-20s) prompt:
+"Create a 10-second action video clip. Duration: 10 seconds. The video features a basketball player performing a dunk and the background is a mall atrium that is a signature multi-level white balconies and spectators looking down"
+
+Video Clip no.3 (20-30s) prompt:
+"Create a 10-second dynamic action video clip. Duration: 10 seconds. A side-tracking shot of a parkour athlete leaping across padded grey modular vaults on a raw concrete floor. The setting is a mall atrium with a glass ceiling. The movement is fast and athletic. High-contrast urban lighting, 16:9 aspect ratio."
+
+Video Clip no.4 (30-40s) prompt:
+"Create a 10-second technology-focused video clip. Duration: 10 seconds. A medium shot of a teenager playing the 'Street Hoops' digital prototype game on a neon-lit kiosk in a mall atrium. The screen shows a high score and 'Winner' animation. Gritty but modern aesthetic, 16:9 aspect ratio."
+
+Video Clip no.5 (40-50s) prompt:
+"Create a 10-second rhythmic video clip. Duration: 10 seconds. High-energy footage of a street dancer performing a power move on a stage with the 'Keep Burning' heart logo behind them. Flashing colored stage lights mix with natural light from the mall's glass skylight. 16:9 aspect ratio."
+
+Video Clip no.6 (50-60s) prompt:
+"Create a 10-second promotional finale video clip. Duration: 10 seconds. A fast-paced montage of athletes and the 'Urban Pulse' logo. The screen fades to a raw concrete background with the final 'Keep Burning' flame logo and bold yellow text: 'JOIN US THIS SATURDAY & SUNDAY, 11AM–8PM. BE THERE!' 16:9 aspect ratio."
 
