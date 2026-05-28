@@ -45,3 +45,16 @@ Social Media prompt no.4:
 
 Follow-up prompt:
 "More details on the game itself, it's a game that involves players to physical touch the screen trying to aim to score, match that description of game playing."
+
+
+Social Media prompt no.5:
+"Two athletes in sleek black streetwear sitting on the edge of a concrete court in a mall atrium with white balconies, sharing vendor-sponsored healthy drinks. High-contrast clean aesthetic with a shallow depth of field. Text overlay: 'KEEP BURNING TOGETHER. REFUEL AT THE URBAN OASIS.' 1:1 aspect ratio"
+
+Follow-up prompt:
+"Maintain the lifestyle scene of the two athletes in black streetwear sharing drinks on the concrete court within the mall atrium. Now, update the text overlay to be more comprehensive.
+Add a bold, clear text block that says: 'JOIN US FOR A RANGE OF HIGH-ENERGY ACTIVITIES AND REFUEL WITH OUR EXCLUSIVE SELECTION OF VENDOR ENERGY DRINKS!'
+Please ensure the following:
+Typography: Use the same bold yellow and white font style seen in the 'Keep Burning' banners to maintain brand consistency.
+Background Sync: Keep the multi-level white balconies and the glass skylight in the background to match the other event materials,.
+Vendor Focus: Ensure the energy drink cans or bottles in the athletes' hands look premium and modern, reflecting the vendor-sponsored prizes mentioned in the project brief.
+Legibility: Place the text in a way that doesn't obscure the athletes' faces, perhaps using a semi-transparent dark overlay if needed to make the white and yellow text pop against the bright mall background."
