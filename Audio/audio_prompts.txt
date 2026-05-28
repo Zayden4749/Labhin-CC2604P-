@@ -1,1 +1,168 @@
+Audio track no. 1 (Submission via excel sheet)
+-------------------------------------------------
 
+Prompt (Claude AI):
+"Scope
+Act as a professional EDM songwriter specializing in Hardstyle and rap-influenced vocals. The song should fit a festival Hardstyle style with aggressive energy and motivational tone.
+ 
+Objective
+Write original song lyrics suitable for a Hardstyle track with rap verses and an anthemic chorus designed for live crowd engagement.
+ 
+Output Requirements
+
+* Song duration target: 2–3 minutes
+
+* BPM assumption: 150 BPM Hardstyle
+
+* Structure:
+
+  * Intro
+
+  * Verse 1 (rap)
+
+  * Build-up
+
+  * Drop / Chorus (chantable hook)
+
+  * Verse 2 (rap)
+
+  * Build-up
+
+  * Final Drop / Chorus
+
+  * Outro
+
+* Lyrics only (no explanations)
+
+* Strong rhythmic phrasing suitable for fast delivery
+
+* Short, punchy lines optimized for crowd chanting
+
+* Avoid explicit content"
+
+Result:
+"**Ignite the Fire**
+
+**[Intro]**
+*(Low, building vocal chops)*
+Yeah...
+It's time...
+Feel the kick...
+Ignite...
+
+**[Verse 1 - Rap]**
+Step into the arena, heart pound like thunder
+150 BPM, tearing the ground asunder
+Crowd locked in, fists clenched, no surrender
+We live for the moment, raw power we render
+Sweat on the floor, bass in your chest
+Push through the limit, leave doubt with the rest
+Adrenaline surge, let the energy possess
+Hardstyle warriors, we never second guess
+
+**[Build-up]**
+*(Rising tension, vocal layers)*
+Higher... louder...
+Feel it coming...
+No stopping now...
+Get ready...
+
+**[Drop / Chorus]**
+IGNITE THE FIRE!
+HANDS UP HIGHER!
+WE BURN THE NIGHT!
+HARDSTYLE EMPIRE!
+IGNITE THE FIRE!
+SCREAM IT LOUDER!
+WE OWN THE SKY!
+FOREVER WE RISE!
+
+*(Chantable post-drop)*
+Hey! Hey! Hey!
+Rise! Rise! Rise!
+
+**[Verse 2 - Rap]**
+Lights flash, bodies crash, unity in motion
+Every kick a revolution, pure devotion
+From the front to the back, no room for hesitation
+We break the silence, create the elevation
+Legends in the making, legends in the crowd
+Echoes in the chest, screaming it proud
+This is our kingdom, bass is the crown
+Hardstyle forever, we never back down
+
+**[Build-up]**
+*(Rising, more intense)*
+It's building...
+It's burning...
+No mercy...
+Here it comes...
+
+**[Final Drop / Chorus]**
+IGNITE THE FIRE!
+HANDS UP HIGHER!
+WE BURN THE NIGHT!
+HARDSTYLE EMPIRE!
+IGNITE THE FIRE!
+SCREAM IT LOUDER!
+WE OWN THE SKY!
+FOREVER WE RISE!
+
+*(Extended chant)*
+Hey! Hey! Hey!
+Rise! Rise! Rise!
+Ignite! Ignite! Ignite!
+
+**[Outro]**
+*(Echoing, fading with crowd cheers vibe)*
+We rise...
+Hardstyle...
+Never dies...
+Ignite..."
+
+
+Prompt:
+"What style prompt should I type in suno AI to match the lyrics."
+
+Result:
+"**Recommended Suno AI Style Prompt (paste this in the Style / Description box):**
+
+```
+
+Festival Hardstyle, raw hardstyle, 150 BPM, aggressive pounding kicks, reverse bass, distorted screeching synth leads, euphoric supersaw melodies, high energy festival anthem, massive build-ups with tension risers and white noise sweeps, powerful anthemic male chorus with crowd chanting energy, rap verses with aggressive fast flow, motivational and empowering tone, raw and energetic festival mainstage vibe, Headhunterz x Wildstylez x Ran-D influence
+
+```
+
+### Alternative Stronger Version (more detailed):
+
+```
+
+High-energy Festival Hardstyle at 150 BPM, raw aggressive kicks with reverse bass, hard-hitting distorted synths, euphoric leads, massive cinematic build-ups, explosive drops, powerful motivational male rap verses with punchy rhythmic flow, huge anthemic sing-along chorus designed for big crowds, hands-up festival energy, epic and empowering atmosphere
+
+```
+
+### Tips for Best Results in Suno:
+- Paste the **full lyrics** exactly as I gave you (with [Intro], [Verse 1], [Drop / Chorus] tags etc.).
+- Use **Custom mode** and enable **Instrumental** off.
+- Try both **v3.5** and **v4** (v4 often handles hardstyle better).
+- If the chorus gets too sung instead of chanted, add at the very end of the style prompt: `, rap verses + shouted anthemic chorus`.
+- Generate a few times — Hardstyle can be picky, so regenerate or use “Continue from” on good drops.
+
+Would you like a shorter version or variations focused more on rawstyle vs euphoric hardstyle?"
+
+
+Prompt:
+"Write me a genre description of the song."
+
+result:
+"**Genre Description:**
+
+"Ignite the Fire" is a high-octane **Festival Hardstyle** track blending raw hardstyle energy with rap-influenced vocals. Built at 150 BPM, it delivers pounding reverse bass kicks, screeching distorted leads, and massive euphoric supersaw melodies designed for mainstage destruction.
+
+Featuring aggressive, fast-flow rap verses and a powerful, chant-heavy anthemic chorus, the track creates an explosive motivational experience that screams unity, strength, and pure festival adrenaline. Perfect for hands-up moments and crowd sing-alongs, it sits at the intersection of classic Hardstyle and modern rap-hard hybrids.
+
+**Tags:** Festival Hardstyle, Raw Hardstyle, Hardstyle Rap, Anthemic Hardstyle, Motivational Hardstyle, Mainstage Energy
+
+---
+
+This description is ready to use for Suno, Spotify, DistroKid, Beatport, or social media. Let me know if you want a shorter version (for Instagram/TikTok) or a more formal one (for label submissions)."
