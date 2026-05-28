@@ -1,1 +1,172 @@
+(All prompts were used in the same NotebookLM chat)
+
+Prompt:
+"[Scope] For the GAE project brief, I've selected the "Keep Burning" theme — a sports and fitness live event at a shopping mall. Deliverables required: 10 images (≥2 prompts), 1 audio track (>2 mins), 1 video (~1 min - video generation of 10s clips of 6 and use capcut to edit it together), 1 opening speech script (~3 mins), and 1 prototype game. Media deployment: 2 banners, 5 social media posts, 3 EDMs. All assets must be generated using free generative AI tools.
+[Objective] Ideate 3 distinct event concepts under the "Keep Burning" theme — each with a cohesive creative direction across images, video, script, and audio, a realistic shopping mall event plan (activity zones, staffing, date/time), and content mapped to the required media outputs (banners, social posts, EDMs). Flag how each concept meets the brief's task criteria.
+[Output] Present each concept as a named pitch with: a one-line tagline, the creative/visual direction, a brief event layout (zones, activities, staffing), suggested date/time, and how the 10 images + video + audio + script + game fit together. Keep it scannable so I can pick one to expand."
+
+Result:
+"Here are three distinct event concepts for the "Keep Burning" sports and fitness live event, tailored to meet all project requirements using free generative AI tools.
+Concept 1: "Neon Velocity: The Future of Fitness"
+Tagline: "Ignite your inner light in a world of motion."
+Creative/Visual Direction: A high-energy Cyberpunk/Synthwave aesthetic. Visuals feature neon blues, hot pinks, and deep purples. Images show athletes in glowing gear against futuristic, high-tech gym backdrops
+.
+Event Layout & Staffing:
+The Pulse Arena (Main Stage): High-intensity interval training (HIIT) led by instructors in LED suits.
+The Reflex Lab: A zone for the prototype game where users test their reaction speeds.
+Hydration Hub: A neon-lit bar serving "electrified" sports drinks.
+Staffing: 4 Fitness Coaches, 2 Tech Support (for the game), 4 Event Ambassadors.
+Suggested Date/Time: Friday to Sunday, 5:00 PM – 10:00 PM (to maximize the "glow" effect in the mall atrium).
+Asset Integration & Task Criteria:
+10 Images: 5 generated with "futuristic neon gym" prompts and 5 with "athletic motion blur synthwave" prompts
+.
+Audio: A fast-paced, 128 BPM EDM/Synthwave track (>2 mins) for the HIIT sessions
+.
+Video: 6 high-octane 10s clips of people sprinting/jumping in neon gear, edited into a 1-min hype reel for the mega-screen
+.
+Script: A CEO speech focusing on "Innovation and Energy" for the future of the community
+.
+Game: A "Neon Reflex" prototype where players tap glowing pads on a screen
+.
+Deployment: Banners use the neon visuals; social posts use the "glow" aesthetic to drive FOMO; EDMs feature the "Early Bird" registration for the HIIT sessions.
+
+--------------------------------------------------------------------------------
+Concept 2: "Urban Pulse: The Street Athletics Festival"
+Tagline: "Your city, your court, your challenge."
+Creative/Visual Direction: Gritty, Urban, and High-Contrast. Visuals mimic street photography with raw textures, graffiti elements, and "action-freeze" shots of basketball, parkour, and street dance
+.
+Event Layout & Staffing:
+The Concrete Court: A 3x3 basketball area.
+The Parkour Path: A safe, cushioned obstacle course for kids and teens.
+Street Beat Stage: For dance battles and the opening ceremony.
+Staffing: 2 Referees, 3 Safety Marshals, 4 Registration Staff.
+Suggested Date/Time: Saturday and Sunday, 11:00 AM – 8:00 PM (Targeting families and youth).
+Asset Integration & Task Criteria:
+10 Images: 5 featuring "urban street basketball" and 5 featuring "dynamic parkour action in a mall setting"
+.
+Audio: An upbeat Hip-Hop/Boom-Bap instrumental (>2 mins) to set the street vibe
+.
+Video: 10s clips of basketball dunks, breakdancing, and parkour flips edited together for a gritty, fast-paced 1-min promo
+.
+Script: A CEO speech welcoming "the grit and spirit of our local athletes"
+.
+Game: A "Street Hoops" physics-based prototype game
+.
+Deployment: Banners use "stencil-style" fonts; social posts feature "Athlete Spotlights"; EDMs include a map of the "Urban Zones."
+
+--------------------------------------------------------------------------------
+Concept 3: "Zen Oasis: Mindful Movement Expo"
+Tagline: "Find your fire through focus."
+Creative/Visual Direction: Minimalist, Organic, and Airy. Soft lighting, pastel greens, and wood textures. Visuals focus on yoga poses, stretching, and calm but powerful athletic forms
+.
+Event Layout & Staffing:
+The Serenity Square: A large matted area for yoga and Pilates.
+The Balance Zone: A section for the prototype game focused on stability and core strength.
+Mindful Market: Vendors selling eco-friendly sports gear and healthy snacks.
+Staffing: 3 Yoga Instructors, 2 Wellness Consultants, 3 General Staff.
+Suggested Date/Time: Saturday and Sunday, 8:00 AM – 4:00 PM (to attract the morning wellness crowd).
+Asset Integration & Task Criteria:
+10 Images: 5 focusing on "zen yoga silhouettes" and 5 on "macro healthy lifestyle/wellness textures"
+.
+Audio: A Lofi-Chill/Ambient track (>2 mins) to maintain a calm atmosphere
+.
+Video: Slow, 10s cinematic pans of people meditating and stretching, edited into a 1-min "peaceful movement" video
+.
+Script: A CEO speech about "Wellness, Balance, and Community Health"
+.
+Game: A "Balance Master" game where players tilt their devices to keep an object steady
+.
+Deployment: Banners use clean white space; social posts focus on "Morning Inspiration"; EDMs offer "Yoga Mat Reservations."
+How these meet your criteria:
+Images: All concepts utilize at least 2 distinct prompts for 10 images
+.
+Audio: Each includes 1 high-quality track over 2 minutes long
+.
+Video: Each follows the 6-clip edit structure for a 1-minute mega-screen feature
+.
+Game: Each includes a prototype idea suitable for a mall prize-winning activity
+.
+Deployment: All concepts map clearly to 2 banners, 5 social posts, and 3 EDMs."
+
+
+Prompt:
+"Based on the brief, I have selected 'Keep Burning' with the concept 'Urban Pulse: The Street Athletics Festival'. Generate a detailed event plan including: venue layout with activity zones, staffing roles, visitor flow, vendor booth allocation, prize allocation for winners, and a run-of-show timeline for a 2-day Saturday–Sunday event."
+
+Result:
+"Based on the project brief and the selected "Urban Pulse: The Street Athletics Festival" concept, here is a detailed 2-day event plan for the "Keep Burning" sports and fitness live event
+.
+1. Venue Layout & Activity Zones
+The layout is designed to fit a standard shopping mall atrium, utilizing the raw, gritty urban aesthetic.
+Zone A: Street Beat Stage (Center Atrium): The focal point for the opening speech, dance performances, and daily announcements
+.
+Zone B: The Concrete Court (Left Wing): A modular 3x3 basketball court featuring high-contrast urban graphics for mini-tournaments.
+Zone C: The Parkour Path (Right Wing): A safe but challenging obstacle course with padded "urban ruins" for youth participation.
+Zone D: The AI Game Lab (Front Entrance): A tech-focused kiosk where visitors play the "Street Hoops" prototype game
+.
+Zone E: The Vendor Row (Perimeter): 6-8 booths for participating brands to showcase sports gear and nutrition.
+Zone F: Registration & Info Hub: Located at the main mall entrance to manage visitor flow.
+2. Staffing Roles
+Event Manager (1): Oversees the entire operation and vendor coordination.
+Registration Staff (4): Manages sign-ups, checks in pre-registered athletes, and explains the event map.
+Safety Marshals (3): Stationed at the Parkour Path to ensure participant safety.
+Referees (2): Officiating the 3x3 basketball matches.
+Tech Support (2): Managing the AI prototype game station and helping users with the interface
+.
+Event Ambassadors (4): Roaming the mall to drive traffic and hand out flyers for the social media activities.
+3. Visitor Flow & Engagement
+Entry: Visitors enter via the Registration Hub, where they receive a "digital punch card."
+Discovery: Visitors are directed to the AI Game Lab to try the prototype game and earn their first stamp
+.
+Action: Visitors move to watch or participate in activities at the Concrete Court or Parkour Path.
+Shop & Redeem: Visitors browse the Vendor Row to use coupons or redeem prizes earned from the game.
+Gather: The crowd gravitates toward the Street Beat Stage for scheduled performances and the daily highlight video
+.
+4. Vendor Booth & Prize Allocation
+As per the brief, vendors provide the prizes for winners
+.
+Booth Allocation: 8 vendors total (4 Sports Apparel, 2 Healthy Snacks/Drinks, 2 Tech/Fitness Gear).
+Prize Allocation:
+Prototype Game Winners: "Small prizes" such as branded water bottles, resistance bands, or $10 vendor vouchers
+.
+3x3 Tournament Winners: Premium vendor hampers (shoes, high-end apparel).
+Parkour Challenge Finishers: Energy drink samples and "Street Pulse" finisher stickers.
+5. Run-of-Show Timeline (Saturday – Sunday)
+Time
+Saturday: The Kick-Off
+Sunday: The Championship
+10:00 AM
+Mall Doors Open / Music Starts
+Open Practice / Warm-up Beats
+11:00 AM
+CEO Opening Speech (3 mins)
+3x3 Basketball Semi-Finals
+11:15 AM
+1-Min Hype Video Premiere
+Parkour "Speed Run" Competition
+12:00 PM
+3x3 Basketball Qualifiers Round 1
+Live Urban Dance Performance
+2:00 PM
+Parkour Workshops for Beginners
+3x3 Basketball Grand Finals
+4:00 PM
+"Street Hoops" Game Tournament
+Final Hype Video Screening
+5:30 PM
+Day 1 Highlight Recap on Mega-Screen
+Grand Prize Presentation Ceremony
+7:00 PM
+Open Play / Vendor Networking
+Event Wrap-up / Vendor Pack-down
+Project Criteria Check
+Images: 10 total (5 Urban Court/5 Parkour Action) across 2 prompts
+.
+Audio: 1 Hip-Hop instrumental track (>2 mins) playing throughout the day
+.
+Video: 1-min montage of the "Urban Pulse" vibe on the mall's mega-screen
+.
+Script: 3-min speech for the CEO focused on community and urban fitness
+.
+Game: "Street Hoops" prototype used in Zone D for prize winning
+."
 
