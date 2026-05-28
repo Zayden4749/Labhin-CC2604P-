@@ -58,3 +58,17 @@ Typography: Use the same bold yellow and white font style seen in the 'Keep Burn
 Background Sync: Keep the multi-level white balconies and the glass skylight in the background to match the other event materials,.
 Vendor Focus: Ensure the energy drink cans or bottles in the athletes' hands look premium and modern, reflecting the vendor-sponsored prizes mentioned in the project brief.
 Legibility: Place the text in a way that doesn't obscure the athletes' faces, perhaps using a semi-transparent dark overlay if needed to make the white and yellow text pop against the bright mall background."
+
+
+EDM no.1:
+"Vertical first-person perspective view of entering the 'Urban Pulse' festival in a multi-level mall atrium with white balconies. Large 'Keep Burning' flame banners are hanging from the ceilings. Sharp high-contrast lighting. Text at the top: 'YOU'RE INVITED: THE STREET ATHLETICS FESTIVAL IS HERE.' 2:3 aspect ratio."
+
+Follow-up prompt:
+"Maintain the vertical first-person perspective of entering the 'Urban Pulse' festival at the mall atrium. Now, please update the primary text to include the formal invitation and the event schedule.
+Add the following text at the top of the image: 'YOU’RE INVITED TO THE URBAN PULSE FESTIVAL! JOIN US THIS SATURDAY & SUNDAY, 11AM–8PM.'
+Please ensure the following:
+Typography: Use the same bold yellow and white font style seen in the 'Keep Burning' campaign assets to ensure brand consistency.
+Environment Sync: Keep the background consistent with the other media, showcasing the multi-level white balconies and the geometric glass skylight of the mall atrium.
+Visual Hierarchy: The text should be sharp and prominent at the top, leaving the bottom half of the image open to showcase the bustling 'Concrete Court' and festival atmosphere.
+Lighting: Maintain the high-contrast, professional sports photography lighting that defines the 'Urban Pulse' look.
+Dimensions: Keep the 2:3 vertical aspect ratio suitable for mobile and desktop email layouts."
