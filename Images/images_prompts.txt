@@ -72,3 +72,10 @@ Environment Sync: Keep the background consistent with the other media, showcasin
 Visual Hierarchy: The text should be sharp and prominent at the top, leaving the bottom half of the image open to showcase the bustling 'Concrete Court' and festival atmosphere.
 Lighting: Maintain the high-contrast, professional sports photography lighting that defines the 'Urban Pulse' look.
 Dimensions: Keep the 2:3 vertical aspect ratio suitable for mobile and desktop email layouts."
+
+
+EDM no.2:
+"Vertical top-down high-contrast flat-lay of a basketball, a parkour wristband, and a vendor coupon resting on a raw concrete floor. Dramatic side lighting with long shadows. Text overlay at the center: '2 DAYS. NON-STOP ACTION. CHECK THE FULL SCHEDULE BELOW.' 2:3 aspect ratio."
+
+Follow-up prompt:
+"Can you edit the image to include someone scoring a goal from a 3 pointer against someone to hook people's attention"
