@@ -1,1 +1,90 @@
+(Same NotebookLM chat as planning_prompts.txt)
+
+Prompt:
+"Based on the event plan, generate the rules, participation guidelines, and winning conditions for all activity zones including: Street Hoops prototype game at the AI Game Lab, 3x3 basketball, parkour obstacle course, and street dance battle."
+
+Result:
+"Based on the "Urban Pulse: The Street Athletics Festival" plan and the project requirements for the "Keep Burning" sports and fitness theme, here are the rules, guidelines, and winning conditions for each activity zone
+.
+All winners across these zones will receive small prizes sponsored by the participating event vendors
+.
+1. AI Game Lab: "Street Hoops" Prototype Game
+This zone features the interactive prototype game created as a core project deliverable
+.
+Participation Guidelines:
+Open to all ages; one attempt per visitor per hour to ensure fair flow.
+Visitors must show their "digital punch card" from the registration hub to play.
+Rules:
+Players have 60 seconds to score as many virtual baskets as possible using the game interface.
+No physical interference with the screen or hardware is permitted.
+Winning Conditions:
+Tier 1: Reach a score of 50+ to win a vendor discount voucher.
+Daily High Score: The player with the highest score at 5:00 PM each day wins a vendor-sponsored fitness tracker or gear bag
+.
+2. The Concrete Court: 3x3 Basketball
+Participation Guidelines:
+Teams must consist of exactly 3 players.
+Pre-registration via the EDM link or on-site registration (if slots are available) is required.
+Rules:
+Games are played to 11 points or a 10-minute time limit, whichever comes first.
+Standard half-court rules apply; clearing the ball behind the arc is required on every change of possession.
+Winning Conditions:
+Winning teams of each match receive a "Street Pulse" finisher sticker.
+Tournament Champions: The winner of the Sunday Grand Finals receives a premium vendor hamper containing high-end athletic apparel
+.
+3. The Parkour Path: Obstacle Course
+Participation Guidelines:
+Open to youth (ages 7–15) and adults (16+).
+Participants must wear closed-toe athletic shoes and sign a standard safety waiver.
+Rules:
+Participants must stay within the marked "Urban Ruins" path.
+Only one person is allowed on the course at a time to ensure the safety marshals can monitor progress.
+Winning Conditions:
+Completion: Every participant who finishes the course receives a sample of a vendor’s healthy snack or energy drink
+.
+Speed Challenge: The fastest time in each age category wins a vendor-sponsored resistance band set.
+4. Street Beat Stage: Dance Battle
+Participation Guidelines:
+1v1 freestyle format.
+Dancers must check in at the stage 15 minutes before the scheduled battle time.
+Rules:
+Each dancer gets two 45-second rounds to perform to the generated Hip-Hop audio track
+.
+No physical contact with the opponent is allowed.
+Winning Conditions:
+Winners are determined by a combination of judge scoring (technique) and crowd applause (originality).
+Battle winners receive vendor gift cards or branded "Urban Pulse" street-wear
+.
+Project Requirements Note
+As specified in your updated project notes, while you may have previously created multiple tracks in class, this event plan will utilize one primary audio track (> 2 minutes) to maintain the "Urban Pulse" vibe across all these activity zones"
+
+
+
+Prompt:
+"For the AI Game Lab, generate me a prompt for Claude to create the web-based game demo."
+
+Result:
+"To help you create the "Street Hoops" prototype game for the AI Game Lab, you can use the following prompt for Claude. This prompt is designed to generate a functional, web-based single-file demo (HTML, CSS, and JavaScript) that aligns with your "Urban Pulse" theme and the specific winning conditions established in your event plan
+.
+Prompt for Claude
+"Act as an expert web game developer. Create a single-file web-based game demo (HTML, CSS, and JavaScript) for a sports and fitness event titled 'Urban Pulse: The Street Athletics Festival' under the theme 'Keep Burning'.
+Game Concept: A 'Street Hoops' basketball shooting game. Visual Direction: The game should have an urban, gritty aesthetic with high-contrast colors (like neon orange and concrete grey).
+Requirements:
+Gameplay Mechanics: Players use the mouse or touch to 'flick' or click a basketball to shoot it into a moving or static hoop.
+Scoring & Timer: Include a clear 60-second countdown timer and a live score counter.
+Winning Conditions: At the end of 60 seconds, display a 'Game Over' screen that shows the final score. Include a message: 'Show this screen to the AI Game Lab staff to claim your prize if you scored 50+ points!'
+Responsiveness: Ensure the game is playable on both desktop and mobile screens, as it will be used in a shopping mall kiosk.
+Technical: Provide the entire code in a single code block using HTML5 Canvas or simple CSS animations for the ball movement."
+
+--------------------------------------------------------------------------------
+How this meets your project criteria:
+Theme Consistency: The prompt ensures the game is directly related to the "Keep Burning" sports/fitness theme and the "Urban Pulse" street athletics concept
+.
+Deliverables: By using Claude to generate the code, you will have the prompts and parameters required for your Stage 2 presentation slides
+.
+Functionality: The inclusion of a timer and scoring system allows you to demonstrate the winning conditions (prizes from vendors) as required by the brief
+.
+Demonstration Ready: Requesting a single-file HTML output makes it easy for you to provide a URL or local file for the required live demonstration to your lecturer
+.
+Note: Since the "Additional Notes" specify that you are now using one audio track for the event, you could also ask Claude in a follow-up prompt to include a line of code that loops your generated 2-minute "Urban Pulse" audio track in the background of the game"
 
