@@ -18,3 +18,10 @@ Banner prompt no.2:
 
 Follow-up prompt:
 "Can you put the logo above the text instead of the person"
+
+
+Social Media prompt no.1:
+"Action-freeze frame of a parkour athlete leaping between professional padded grey modular vaults in a mall atrium with white balconies. The floor is raw grey concrete. High-contrast cinematic lighting with no bricks or debris. Include bold yellow text overlay: 'IGNITE YOUR ENERGY. PARKOUR PATH OPEN 11AM–8PM.' 1:1 aspect ratio."
+
+Follow-up prompt:
+"Could add a flame logo that says 'Keep burning' somewhere below"
