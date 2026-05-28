@@ -25,3 +25,9 @@ Social Media prompt no.1:
 
 Follow-up prompt:
 "Could add a flame logo that says 'Keep burning' somewhere below"
+
+Social Media prompt no.2:
+"Close-up high-speed action shot of a basketball player dribbling past a defender on a raw concrete floor in a mall atrium. Focus on the sweat and the 'Keep Burning' intensity. Gritty high-contrast aesthetic with deep shadows. Text overlay: 'FEEL THE PULSE. BATTLE IT OUT AT THE CONCRETE COURT.' 1:1 aspect ratio"
+
+Follow-up prompt:
+"Can you include a textbox that says "JOIN US THIS SATURDAY & SUNDAY, 11AM–8PM." below"
