@@ -31,3 +31,10 @@ Social Media prompt no.2:
 
 Follow-up prompt:
 "Can you include a textbox that says "JOIN US THIS SATURDAY & SUNDAY, 11AM–8PM." below"
+
+
+Social Media prompt no.3:
+"A street dancer performing a power move on a stage within a multi-level mall atrium under a glass skylight. Rhythmic cinematic lighting with the 'Urban Pulse' flame logo visible on a large screen in the background. Text overlay: 'STREET BEAT DANCE BATTLES. SUNDAY AT 2PM. BE THERE.' 1:1 aspect ratio."
+
+Follow-up prompt:
+"Can you move the flames to above the text instead of the on the face"
