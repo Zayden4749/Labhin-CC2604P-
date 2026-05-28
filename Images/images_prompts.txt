@@ -79,3 +79,19 @@ EDM no.2:
 
 Follow-up prompt:
 "Can you edit the image to include someone scoring a goal from a 3 pointer against someone to hook people's attention"
+ 
+
+EDM no.3:
+"Cinematic vertical portrait of a premium gear hamper featuring athletic shoes and a water bottle on a concrete court floor. Background shows blurred mall balconies and the glass ceiling. High-contrast elite sports vibe. Text overlay: 'KEEP BURNING. KEEP WINNING. SEE THE PRIZES WAITING FOR YOU.' 2:3 aspect ratio."
+
+Follow-up prompt:
+"Maintain the cinematic vertical portrait of the premium gear hamper featuring the athletic shoes and water bottle on the raw concrete court floor. Now, please update the text overlay to include the event invitation and the specific schedule.
+Add a bold, prominent text block that says: 'YOU’RE INVITED TO THE URBAN PULSE FESTIVAL! WIN EXCLUSIVE PRIZES THIS SATURDAY & SUNDAY, 11AM–8PM.'
+Please ensure the following:
+Brand Alignment: Use the same bold yellow and white font style established in the 'Keep Burning' banners to ensure a consistent theme.
+Visual Context: Keep the background consistent with the other assets, showing the blurred multi-level white balconies and the geometric glass skylight of the mall atrium.
+Visual Hierarchy: The text should be sharp and positioned either at the top or center-bottom, ensuring it does not obscure the details of the premium prizes.
+Lighting: Maintain the high-contrast, elite sports vibe with dramatic highlights on the gear to emphasize quality.
+Dimensions: Preserve the 2:3 vertical aspect ratio for optimal email viewing."
+
+
